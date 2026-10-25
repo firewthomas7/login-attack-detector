@@ -1,0 +1,13 @@
+﻿===== EVALUATION RESULTS =====
+Real attacker IPs         : 8
+Detected (true positives) : 8
+Missed (false negatives)  : 0  []
+Wrongly flagged (false +) : 0  []
+Precision                 : 100%
+Recall                    : 100%
+Average detection delay   : 284.6 seconds after attack began
+
+Recall by attack type:
+  BRUTE_FORCE          3/3 detected
+  CREDENTIAL_STUFFING  3/3 detected
+  LOW_AND_SLOW         2/2 detected
